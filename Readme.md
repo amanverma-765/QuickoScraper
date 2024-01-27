@@ -1,6 +1,5 @@
-# Quickoline: Jobs and Vacancy data Scraping with Selenium and Kotlin
-
-**Welcome to Quickoline, a Kotlin project that utilizes Selenium to scrape job and vacancy data from sarkariresult.com!**
+# QuickoScraper
+***Kotlin project that utilizes Selenium and kotlin to scrape job and vacancy data from sarkariresult.com!***
 
 ## Features
 
